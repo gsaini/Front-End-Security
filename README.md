@@ -7,7 +7,7 @@
     - security issues in Framework (react, Backbone, Angular) – Gopal | React – Shobhit/Anoop
     - How to use JS securely - Shobhit
     - Tools – BurpBuddy,
-    - Different types of XSS & resolution.- Anoop
+    - Different types of XSS & resolution.- Anoop (https://excess-xss.com/)
     - TLS security. - Sachin
     - Intro to OWASP – Basic Intro.
     - Third party code snippets – Trusteer, Threatmatrix & Biocatch.
