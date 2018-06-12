@@ -1,6 +1,6 @@
 # Front-End-Security
 
-Topics - 
+- Topics - 
     - iframe busting - Sachin
     - CORS – Gopal 
     - content hijacking and security policy - Sachin
@@ -12,10 +12,13 @@ Topics -
     - Intro to OWASP – Basic Intro.
     - Third party code snippets – Trusteer, Threatmatrix & Biocatch.
 
-Best practices to remove common code issues.
+- Best practices to remove common code issues.
     - Meta tags.
 
-Links – 
+- Tips & Tricks - Sachin
+    - Extensions doesn't work in Cognito mode.
+
+- Links – 
 	https://github.com/anoop-gupt/web-security-refs
 
     https://github.com/wtsxDev/List-of-web-application-security#labs
