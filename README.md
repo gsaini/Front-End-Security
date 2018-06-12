@@ -24,3 +24,5 @@
     https://github.com/wtsxDev/List-of-web-application-security#labs
 
     https://medium.com/@michael.plazek91/learn-how-to-statically-scan-your-react-app-for-security-flaws-738d36064988
+    
+    https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0
