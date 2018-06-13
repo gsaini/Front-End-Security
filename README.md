@@ -15,8 +15,10 @@
 - Best practices to remove common code issues.
     - Meta tags.
 
-- Tips & Tricks - Sachin
-    - Extensions doesn't work in Cognito mode.
+- Tips & Tricks - All
+    - Extensions doesn't work in Cognito mode. - Sachin
+    - CORS specific trick - Gopal
+    - Devtool shortcuts - Gopal
 
 - Links – 
 	https://github.com/anoop-gupt/web-security-refs
