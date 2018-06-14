@@ -4,7 +4,10 @@
     - iframe busting - Sachin
     - CORS – Gopal 
     - content hijacking and security policy - Sachin
-    - security issues in Framework (react, Backbone, Angular) – Gopal | React – Shobhit/Anoop
+    - security issues in Frameworks (react, Backbone, Angular)
+	- AngularJS (https://angular.io/guide/security) – Gopal 
+	- React – Shobhit/Anoop
+    - An Intro to Content Security Policy (https://www.html5rocks.com/en/tutorials/security/content-security-policy/) - Gopal
     - How to use JS securely - Shobhit
     - Tools – BurpBuddy,
     - Different types of XSS & resolution.- Anoop (https://excess-xss.com/)
