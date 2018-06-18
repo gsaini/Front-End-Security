@@ -6,9 +6,10 @@
     - content hijacking and security policy - Sachin
     - security issues in Frameworks (react, Backbone, Angular)
 	- AngularJS (https://angular.io/guide/security) – Gopal 
-	- React – Shobhit/Anoop
+	- React – Shobhit/Anoop (https://flexport.engineering/six-vulnerabilities-from-a-year-of-hackerone-808d8bfa0014)
     - An Intro to Content Security Policy (https://www.html5rocks.com/en/tutorials/security/content-security-policy/) - Gopal
     - How to use JS securely - Shobhit
+    - How to use CSS in JS securely - Shobhit (https://reactarmory.com/answers/how-can-i-use-css-in-js-securely, https://codesandbox.io/s/llnzkwk0mz)
     - Tools – BurpBuddy,
     - Different types of XSS & resolution.- Anoop (https://excess-xss.com/)
     - TLS security. - Sachin
