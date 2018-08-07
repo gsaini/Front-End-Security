@@ -7,7 +7,7 @@
     - security issues in Frameworks (react, Backbone, Angular)
 	- AngularJS (https://angular.io/guide/security) – Gopal 
 	- React – Shobhit/Anoop (https://flexport.engineering/six-vulnerabilities-from-a-year-of-hackerone-808d8bfa0014)
-    - An Intro to Content Security Policy (https://www.html5rocks.com/en/tutorials/security/content-security-policy/) - Gopal
+    - [An Intro to Content Security Policy](https://developers.google.com/web/fundamentals/security/csp/) - Gopal
     - How to use JS securely - Shobhit
     - How to use CSS in JS securely - Shobhit (https://reactarmory.com/answers/how-can-i-use-css-in-js-securely, https://codesandbox.io/s/llnzkwk0mz)
     - Tools – BurpBuddy,
