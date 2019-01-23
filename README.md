@@ -32,3 +32,10 @@
     https://medium.com/@michael.plazek91/learn-how-to-statically-scan-your-react-app-for-security-flaws-738d36064988
     
     https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0
+    
+- Styled components & css-in-js patterns
+https://reactarmory.com/answers/how-can-i-use-css-in-js-securely
+- React SSR:
+https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0
+- General concepts:
+https://flexport.engineering/six-vulnerabilities-from-a-year-of-hackerone-808d8bfa0014
