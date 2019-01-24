@@ -23,6 +23,10 @@
     - Extensions doesn't work in Cognito mode. - Sachin
     - CORS specific trick - Gopal
     - Devtool shortcuts - Gopal
+    
+- Video
+- Modern Web Security Standard (by Scott Helme)
+https://www.youtube.com/watch?v=j-0Bj40juMI
 
 - Links – 
 	https://github.com/anoop-gupt/web-security-refs
@@ -39,3 +43,7 @@ https://reactarmory.com/answers/how-can-i-use-css-in-js-securely
 https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0
 - General concepts:
 https://flexport.engineering/six-vulnerabilities-from-a-year-of-hackerone-808d8bfa0014
+
+- Tools for setting up security headers
+https://report-uri.com/home/tools
+https://securityheaders.io
